@@ -1,0 +1,10 @@
+ipykernel
+jupyterlab
+matplotlib
+numpy
+pandas
+requests
+scikit-learn
+seaborn
+statsmodels
+yfinance
